@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18caf43e-931b-4173-8446-0ddb3861011b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S0cJX1GpxJAMJbvFQecuB1RSAc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Springboot2JpaCrudExampleApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.guides.springboot2.springboot2jpacrudexample.Springboot2JpaCrudExampleApplication" />
+      <module name="springboot2-jpa-crud-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.guides.springboot2.springboot2jpacrudexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Springboot2JpaCrudExampleApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18caf43e-931b-4173-8446-0ddb3861011b" name="Default Changelist" comment="" />
+      <created>1570703940688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570703940688</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="0" key="#Notifications" timestamp="1586260285536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="0" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1586260285536" />
+    <state x="530" y="21" key="#com.intellij.ide.util.MemberChooser" timestamp="1586272226231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="21" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586272226231" />
+    <state x="522" y="260" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587579117809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="522" y="260" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1587579117809" />
+    <state x="587" y="294" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1586260303832" />
+    <state width="1481" height="235" key="GridCell.Tab.0.bottom" timestamp="1588002936540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587834854192" />
+    <state width="1481" height="235" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588002936540" />
+    <state width="1481" height="235" key="GridCell.Tab.0.center" timestamp="1588002936540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587834854192" />
+    <state width="1481" height="235" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588002936540" />
+    <state width="1481" height="235" key="GridCell.Tab.0.left" timestamp="1588002936540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587834854192" />
+    <state width="1481" height="235" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588002936540" />
+    <state width="1481" height="235" key="GridCell.Tab.0.right" timestamp="1588002936540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587834854192" />
+    <state width="1481" height="235" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588002936540" />
+    <state x="209" y="0" key="SettingsEditor" timestamp="1588002432787">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="186" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587578983173" />
+    <state x="209" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588002432787" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/springboot2_jpa_crud_example$Springboot2JpaCrudExampleApplication.ic" NAME="Springboot2JpaCrudExampleApplication Coverage Results" MODIFIED="1587990901998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.guides.springboot2.springboot2jpacrudexample.*</FILTER>
+    </SUITE>
+  </component>
+</project>
