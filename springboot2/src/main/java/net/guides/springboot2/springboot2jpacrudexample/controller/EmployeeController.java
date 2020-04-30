@@ -14,7 +14,7 @@ import java.util.Map;
 
 @CrossOrigin(origins = "*", maxAge = 3600)
 @RestController
-@RequestMapping("/api/v1")
+@RequestMapping("/api/v1/employees")
 public class EmployeeController {
     @Autowired
     private EmployeeRepository employeeRepository;

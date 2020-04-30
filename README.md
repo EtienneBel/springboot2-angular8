@@ -1,38 +1,37 @@
+  
+# Spring Boot API with Angular UI
+This example app shows how to create a Spring Boot API and display its data with an Angular UI.
 
-Some screenshots
-===========================================================================================
+![Capture](https://user-images.githubusercontent.com/49534121/80701578-827c3000-8ad7-11ea-8c23-7dd6f211b59a.PNG)
 
-1_ data from rest-api
+![Capture1](https://user-images.githubusercontent.com/49534121/80701610-932ca600-8ad7-11ea-9a48-e173de61c49e.PNG)
 
-![tempsnip](https://user-images.githubusercontent.com/49534121/67223421-213c1b80-f427-11e9-97bf-42fe75f6e3fc.png)
-
-2_ input form
-
-![tempsnip4](https://user-images.githubusercontent.com/49534121/67223123-9b1fd500-f426-11e9-9f09-15cf13e103cd.png)
-
-3_ data display
-
-![tempsnip2](https://user-images.githubusercontent.com/49534121/67223312-f4880400-f426-11e9-8786-b94cca053528.png)
+![Capture3](https://user-images.githubusercontent.com/49534121/80701642-9f186800-8ad7-11ea-8222-48f0040419e1.PNG)
 
 
-==================================================================================
+## Prerequisites: Java 8, Node.js and MySQL database.
 
+## Getting Started
+To install this example application, run the following commands:
 
-Spring Boot CRUD Rest APIs with Angular8
-==================================================================================
+`git clone https://github.com/EtienneBel/springboot2-angular8/`
 
-	https://www.javaguides.net/2019/06/spring-boot-angular-7-crud-example-tutorial.html
+This will get a copy of the project installed locally. 
 
-==================================================================================
+To install all of its dependencies and start each app, follow the instructions below.
 
+- To run the server, `cd springboot2` into the server folder and run:
 
-Authentication management
-==================================================================================
+`mvnw spring-boot:run`
 
-	https://bezkoder.com/angular-spring-boot-jwt-auth/
+- To run the client, cd into the client folder and run:
 
-==================================================================================
+`npm install` then `ng serve --o`
 
-=======
-# rest-api-spring-angular
->>>>>>> 6d4ef8c5f49eaf856a76d860c02225398e55f0a0
+## Up-Coming Features:
+- Spring Boot JWT Authentication
+- Angular 8 with HttpInterceptor
+- File upload
+
+## Help
+Any question feel free to contact me at belemgnegreetienne@gmail.com
